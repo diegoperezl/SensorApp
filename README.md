@@ -18,11 +18,15 @@ The app currently supports the following sensors:
 
 - Accelerometer
 - Gyroscope
-- Magnetometer
+- Magnetic field
 - Light Sensor
 - Proximity Sensor
 - Pressure Sensor
 - Temperature Sensor
+- Relative humidity
+- Linear acceleration
+- Gravity
+- Rotation vector
 
 ## Contributing
 
