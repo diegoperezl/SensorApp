@@ -10,8 +10,6 @@ To install the app, simply download the APK file from the releases page and inst
 
 After installation, open the app and select the sensor you want to view data from. The app will start capturing data from the sensor and display it in a real-time graph.
 
-Users can also adjust the graph's settings, such as the time interval and data range. Additionally, the app provides the ability to export data in CSV format for further analysis.
-
 ## Supported Sensors
 
 The app currently supports the following sensors:
